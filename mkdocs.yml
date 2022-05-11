@@ -1,4 +1,5 @@
 site_name: MyDocs
+repo_url: https://github.com/rhexa/mydocs
 theme:
   name: material
 markdown_extensions:
